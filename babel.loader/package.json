@@ -1,0 +1,12 @@
+{
+  "name": "babel.loader",
+  "version": "1.0.0",
+  "description": "babel loader practices",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020",
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
