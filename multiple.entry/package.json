@@ -1,0 +1,11 @@
+{
+  "name": "multiple.entry",
+  "version": "1.0.0",
+  "description": "multiple entry practices",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020",
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}

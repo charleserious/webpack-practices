@@ -1,0 +1,25 @@
+{
+  "name": "webpack-practices",
+  "version": "1.0.0",
+  "description": "a collection of simple practices on Webpack",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.16.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleserious/webpack-practices.git"
+  },
+  "keywords": [
+    "build",
+    "practices",
+    "webpack"
+  ],
+  "author": "Charleserious",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charleserious/webpack-practices/issues"
+  },
+  "homepage": "https://github.com/charleserious/webpack-practices#readme"
+}
