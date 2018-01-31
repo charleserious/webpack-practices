@@ -1,0 +1,12 @@
+{
+  "name": "enviroment.flags",
+  "version": "1.0.0",
+  "description": "Enviroment Flags",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx cross-env DEBUG=true webpack-dev-server --open --port 9020",
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
