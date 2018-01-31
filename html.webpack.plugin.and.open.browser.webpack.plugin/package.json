@@ -1,0 +1,12 @@
+{
+  "name": "html.webpack.plugin.and.open.browser.webpack.plugin",
+  "version": "1.0.0",
+  "description": "Html Webpack Plugin and Open Browser Webpack Plugin",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020",
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
