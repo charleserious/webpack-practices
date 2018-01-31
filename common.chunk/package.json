@@ -1,0 +1,11 @@
+{
+  "name": "common.chunk",
+  "version": "1.0.0",
+  "description": "Common chunk practice",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020", 
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
