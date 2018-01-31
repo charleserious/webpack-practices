@@ -1,0 +1,12 @@
+{
+  "name": "code.splitting.with.bundle.loader",
+  "version": "1.0.0",
+  "description": "Code Splitting with bundle-loader",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020", 
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
