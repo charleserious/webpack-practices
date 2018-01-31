@@ -1,0 +1,12 @@
+{
+  "name": "css.loader",
+  "version": "1.0.0",
+  "description": "css loader practice",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020", 
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
