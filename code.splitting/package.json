@@ -1,0 +1,12 @@
+{
+  "name": "code.splitting",
+  "version": "1.0.0",
+  "description": "Code Splitting practice",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020", 
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
