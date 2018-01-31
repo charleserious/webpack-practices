@@ -1,0 +1,11 @@
+{
+  "name": "css.module",
+  "version": "1.0.0",
+  "description": "css module practicde",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020",
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
