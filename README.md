@@ -393,7 +393,7 @@ module.exports = {
 };
 ```
 
-(url-loader)[https://www.npmjs.com/package/url-loader] transforms image files into <img> tag. If the image size is smaller than 8192 bytes, it will be tansform into DataURL; otherwise, it will be transformed into normal URL.
+[url-loader](https://www.npmjs.com/package/url-loader) transforms image files into <img> tag. If the image size is smaller than 8192 bytes, it will be tansform into DataURL; otherwise, it will be transformed into normal URL.
 
 After launching the server, small.png and big.png hava following URLs.
 
