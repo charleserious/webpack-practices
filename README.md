@@ -37,10 +37,14 @@ Webpack的配置集中心一个叫`webpack.config.js`的文件中，说到底是
 ```JavaScript
 // webpack.config.js
 module.exports = {
-  entry: './main.js',
-  output: {
-    filename: 'bundle.js'
-  }
+
+    entry: './main.js',
+    output: {
+
+        filename: 'bundle.js'
+
+    }
+
 };
 ```
 
