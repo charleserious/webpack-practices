@@ -1,0 +1,12 @@
+{
+  "name": "exposing.global.variables",
+  "version": "1.0.0",
+  "description": "Exposing global variables",
+  "main": "data.jsx",
+  "scripts": {
+    "dev": "webpack-dev-server --open --port 9020",
+    "build": "webpack -p"
+  },
+  "author": "Charleserious",
+  "license": "MIT"
+}
